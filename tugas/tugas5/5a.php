@@ -89,7 +89,7 @@ $student = [
     }
   </style>  
 </head>
-<body>
+<body> 
     <div class="container"> 
         <h1>Daftar Mahasiswa</h1>
             <?php foreach ($student as $students) : ?>
