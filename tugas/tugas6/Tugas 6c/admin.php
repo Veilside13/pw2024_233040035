@@ -11,7 +11,7 @@
             box-sizing: border-box;
         }
 
-        .container {
+        .container { 
             display: flex;
             justify-content: center;
             align-items: center;

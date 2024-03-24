@@ -20,7 +20,7 @@ if (isset($_POST["submit"])) {
         * {
             padding: 0;
             margin: 0;
-            box-sizing: border-box;
+            box-sizing: border-box; 
         }
 
         .container {

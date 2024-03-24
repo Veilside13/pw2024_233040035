@@ -87,7 +87,7 @@ $student = [
     h1 {
         font-family: "Rubik";
     }
-  </style>
+  </style>  
 </head>
 <body>
     <div class="container"> 

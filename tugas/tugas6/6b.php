@@ -15,7 +15,7 @@
             margin: 2px;
         }
 
-        .kotak h2 {
+        .kotak h2 { 
             margin: auto;
         }
 
